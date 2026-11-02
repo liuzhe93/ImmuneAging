@@ -1,1 +1,1 @@
-# ImmuneAging
+Authoring and verification workflow snapshot. Scientific analysis and figure-generation entry points are in ../../ImmuneAging_Github. Document builders retain paths to the staged source documents and earlier revision inputs used during editing; adapt those paths before rebuilding documents outside the staging workspace. The source v3 document and verified bibliography are retained in ../../reference/BIB_review_v4.
