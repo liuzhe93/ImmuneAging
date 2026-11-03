@@ -1,0 +1,9 @@
+{
+  "metadata_root": "/home/cityu/liuz-39/ImmuneAging/data/benchmark_revision_500cells/metadata",
+  "deposited_root": "/home/cityu/liuz-39/ImmuneAging/data/benchmark_revision_500cells/deposited",
+  "output_root": "/home/cityu/liuz-39/ImmuneAging/reproduction_results",
+  "seed": 20261030,
+  "primary_cells": 500,
+  "bootstrap_resamples": 2000,
+  "threads": 1
+}
