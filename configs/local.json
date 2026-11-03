@@ -1,0 +1,9 @@
+{
+  "metadata_root": "F:\\Ashley_Projects\\ImmuneAging\\data\\benchmark_revision_500cells\\metadata",
+  "deposited_root": "F:\\Ashley_Projects\\ImmuneAging\\data\\benchmark_revision_500cells\\deposited",
+  "output_root": "F:\\Ashley_Projects\\ImmuneAging\\reproduction_results",
+  "seed": 20261030,
+  "primary_cells": 500,
+  "bootstrap_resamples": 2000,
+  "threads": 1
+}
